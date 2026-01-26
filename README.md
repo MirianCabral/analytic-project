@@ -9,7 +9,7 @@ O projeto contempla desde o tratamento e modelagem dos dados até a construção
 - Avaliar o percentual de pedidos atrasados
  
 ## Base de dados
-Dataset público: [Olist Brazilian E-Commerce Dataset] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Dataset público: [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 Principais tabelas utilizadas:
 - orders
